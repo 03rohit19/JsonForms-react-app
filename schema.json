@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "title": "Name"
+    },
+    "category": {
+      "type": "string",
+      "title": "Type"
+    },
+    "cost": {
+      "type": "string",
+      "title": "Cost"
+    },
+    "version": {
+      "type": "string",
+      "title": "Version"
+    },
+    "company": {
+      "type": "string",
+      "title": "Company"
+    },
+    "description": {
+      "type": "string",
+      "title": "Description"
+    },
+    "review": {
+      "type": "string",
+      "title": "Review"
+    },
+    "rating": {
+      "type": "number",
+      "title": "Rating"
+    }
+  }
+}
