@@ -4,7 +4,7 @@ import { materialRenderers } from "@jsonforms/material-renderers";
 import schema from "../utils/schema.json";
 import { ThemeProvider } from "@mui/material";
 import { customizedTheme } from "../App";
-import Switch from "@mui/material/Switch";
+
 
 const data = {
   name: "xyz",
